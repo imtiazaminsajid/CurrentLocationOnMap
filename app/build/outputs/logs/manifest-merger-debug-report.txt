@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c138adcd5d642d32d51d6c514c2a1a35\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\f8994f38197f7d66e9e25aee9968b586\AndroidManifest.xml:2:1-9:12
@@ -38,20 +38,20 @@ MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ambit\.g
 MERGED from [com.android.support:print:28.0.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f4a4f2c74320eab210637f9da8e98462\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5c18f1dde4c92a2dd17c18d1fd0c552a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\c1079996e2cf3d942338f0050e7e23fa\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
 		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
 		INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-41:12
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:1-45:12
 		INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:2:11-69
@@ -59,8 +59,28 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:9:5-79
 	android:name
 		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:11:5-66
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:12:5-78
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:13:5-97
+	android:name
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:13:22-95
 application
-ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:11:5-39:19
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:15:5-43:19
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\f8994f38197f7d66e9e25aee9968b586\AndroidManifest.xml:7:5-20
@@ -84,39 +104,39 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ambit\.gra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\37e98035da0bf92c6045a76b4b34c3ff\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:18:9-41
 	android:roundIcon
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:19:9-54
 	android:icon
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:21:9-40
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:26:9-28:55
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:30:9-32:55
 	android:value
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:28:13-52
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:32:13-52
 	android:name
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:27:13-58
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:31:13-58
 activity#com.example.ambit.parkingkoiassignment.MapsActivity
-ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:30:9-38:20
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:34:9-42:20
 	android:label
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:32:13-56
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:36:13-56
 	android:name
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:31:13-41
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:35:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:37:13-41:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml:40:27-74
 uses-sdk
 INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
@@ -201,14 +221,6 @@ INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidMa
 		INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ambit\Desktop\ParkingKoiAssignment\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:23:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:23:22-76
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:24:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:24:22-64
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ambit\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\48c236acde0cc44cc9d6ee82d764cf52\AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
